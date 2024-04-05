@@ -4,3 +4,5 @@ htmlcov
 **/.DS_Store
 **/node_modules
 **/*.log
+venv-unit-test
+.vscode
